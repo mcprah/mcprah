@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcprah
 - 👀 I’m interested in building applications in vue or nuxt
-- 🌱 I’m currently on a flutter journey 😇
+- 🌱 I’m currently learning Flutter 😇
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 How to reach me: twitter: https://twitter.com/mcprah_ or LinkedIn: https://www.linkedin.com/in/mark-amoah
 
