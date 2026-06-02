@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mark Amoah 👋</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer · AI/LegalTech Builder · Founder of Clausync</strong>
+  <strong>Senior Software Developer · AI/LegalTech Builder · Founder of Clausync</strong>
 </p>
 
 <p align="center">
